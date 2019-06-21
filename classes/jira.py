@@ -26,7 +26,7 @@ class jira():
        
         try:
             self._session.add_user(self.USERNAME, email, active=True)
-            print('1')
+        
         except JIRAError as error:
             print('jira.init.user_invite <%s>' % error.text)
    

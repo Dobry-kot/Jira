@@ -17,8 +17,8 @@ if __name__ == "__main__":
 
     """gropePolicy = ['***', '***'] input your list groupes for user"""
     username    = 'pdl.48.hot'
-    email       = 'pdl.48.hot@gmail.com'
-    password    = ''
+    email       = 'test@example.com'
+    password    = 't4too7a'
     gropePolicy = ['users'] 
 
     jira = jira()
