@@ -1,0 +1,6 @@
+# template python-services cfg 
+# copy this cfg to home dir ~/.python_auth_cfg.yml cfg
+jira:
+  admin_api_token : 'you api token'
+  admin_user	    : 'you login'
+  jira_basic_url	: 'https://atlassian.net' # input your account url 
